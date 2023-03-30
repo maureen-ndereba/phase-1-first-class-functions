@@ -3,7 +3,7 @@ function receivesAFunction(newFunction){
     console.log(newFunction());
    }
    
-   receivesAFunction(function () { return "Mo is awesome"});
+   receivesAFunction(function () { return "Tech is awesome"});
 
 
 
